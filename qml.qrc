@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>getPrice.js</file>
+        <file>counterUpdate.js</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>noxbran.png</file>
+    </qresource>
+</RCC>
