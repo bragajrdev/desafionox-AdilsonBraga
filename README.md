@@ -6,4 +6,6 @@
 <br>
 <p><i>Abaixo, demonstração da interface da aplicação: </p></i>
 
+<img src='CapturasTela/interface.png'>
+
 
